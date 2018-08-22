@@ -1,4 +1,5 @@
-# login-with-amazon-2018
+# Login with amazon example for Android
+
 This project has the necessary code to implement Login With Amazon for Android in 2018
 
 It has the recently updated version of the library that fix this bug report 
